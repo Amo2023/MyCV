@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name":"Amo Chen",
+    "description":"Passionate about learning technology and sharing knowledge",
+    "image":"profile.jpg",
+    "bio":"My name is Amo, I am a full stack web developer. ",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "amochen@gmail.com",
+    "phone": "(61) 0808666860",
+    "github":"https://github.com/Amo2023",
+    "project":"https://github.com/Amo2023",
+    "address":{
+      "line1":"Address: 34 Sexton St",
+      "line2":"City: Brisbane",
+      "line3":"Country: Australia"
+    },
+    "youtube":{
+      "english": {
+        "name": "David on Cloud",
+        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
+      },
+      "chinese": {
+        "name": "澳洲程序员大卫",
+        "url":"https://www.youtube.com/@aus-david"
+      }
+    },
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/Amo2023",
+        "className":"fa fa-github"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com",
+        "className":"fa fa-facebook"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"Sichuan University Jinjiang College",
+        "degree":"Bachelor of Civil Engineering",
+        "graduated":"2009 - 2013",
+        "description":""
+      },
+      {
+        "school":"Tafe QLD",
+        "degree":"Diploma of full stack web development",
+        "graduated":"2023-2024",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Cyberlark Studio",
+        "title":"Full stack developer",
+        "years":"Augest 2024 - Present",
+        "description":"Our website was founded in August 2005, originally named D&M Studio. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Frontend Development (TypeScript, React, Tailwind, jQuer.)",
+        "level":"95%"
+      },
+      {
+        "name":"Backend Development (Node, Express, MongoDB, MySQL)",
+        "level":"85%"
+      },
+      {
+        "name":"API(RESTful API, Swagger, Axios)",
+        "level":"80%"
+      },
+      {
+        "name":"ThurderClient, Git, Github, JIRA)",
+        "level":"75%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ProjectX",
+        "description": "My github project-coming soon",
+        "category": "project",
+        "image":"projectTest.png",
+        "url":"https://github.com/Amo2023"
+      }
+    ]
+  }
+}
