@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Amo's Personal CV
 ![Status](https://github.com/David-Cyberlark/PersonalCV/actions/workflows/build.yml/badge.svg)
-//????
+//???
 This is my personal CV website, created using React and other modern web technologies.
 
 # Run Project
